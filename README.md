@@ -14,5 +14,5 @@ My self-built, mobile-first learning roadmap from Python basics to deep learning
 - [ ] MLOps
 
 ## Folders
-- `notes/`: my study notes
-- `python_basics/`: early Python practice
+- `notes/`: portfolio log of what I finish in each phase
+- `bugs/`: bug log with the error, cause, fix, and lesson
